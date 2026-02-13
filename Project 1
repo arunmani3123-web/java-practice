@@ -1,0 +1,5 @@
+puplic class ILearnedjava {
+  puplic static void main(string[] args) {
+    System. out . println("I learned java");
+  }
+}
